@@ -10,8 +10,9 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 The created R script (run_analysis.R) performs the data clean up:
 
-    It merges the training and test sets to create one data set that calculates the measurement of the mean
-    and standard deviation. In the second part of the analysis, the data set calculates the average of each activitiy and each subject.
+    It merges the training and test sets to create one data set that calculates the 
+    measurement of the mean and standard deviation. In the second part of the analysis, 
+    the data set calculates the average of each activitiy and each subject.
     
     Here is the list of the activity list:
     
